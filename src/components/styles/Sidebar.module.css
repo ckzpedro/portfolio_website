@@ -1,0 +1,7 @@
+.sidebar_box{
+    background-color: rgb(238, 238, 238);
+    position: fixed;
+    margin: 8rem;
+    width: 32rem;
+    flex-direction: column;
+}
